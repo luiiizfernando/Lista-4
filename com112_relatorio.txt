@@ -1,0 +1,13 @@
+Numero de elementos ordenados: 10
+Metodo Insertion Sort
+Tempo de execucao: 0.006000.
+Numero de comparacao: 9.
+Numero de movimentos: 21.
+Bubble Sort
+Tempo de execucao: 0.006000.
+Numero de comparacao: 90.
+Numero de movimentos: 21.
+Selection Sort
+Tempo de execucao: 0.005000.
+Numero de comparacao: 45.
+Numero de movimentos: 7.
